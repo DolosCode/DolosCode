@@ -10,6 +10,8 @@
 - 💬 Ask me about Google Analytics or BigQuery
 - 📫 How to reach me: DolosCode@gmail.com
 - 😄 Pronouns: He/Him
-
+ 
+<br>
+[![DolosCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolosCode)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: httpsL//www.google.com
