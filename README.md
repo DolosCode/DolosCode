@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Liam aka [DolosCode][website]
 
-<!--
-**DolosCode/DolosCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm have 3 years of data analysis experience and recently have been branching out into data science, data engineering and more project-based work. 
+## I mostly work in with the Google Cloud and Marketing Platforms.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building a github pages website [Website][website]
+- 🌱 I’m currently learning Data Engineering 
+- 👯 I’m looking to collaborate on any GCP related add-ons/tools
+- 🤔 I’m looking for help with... Everything! (Mentorship would be nice!)
+- 💬 Ask me about Google Analytics or BigQuery
+- 📫 How to reach me: DolosCode@gmail.com
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
