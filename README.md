@@ -13,6 +13,4 @@
  
 <br>
 
-<img align="left" alt="DolosCode's GitHub Stats" src="https://github-readme-stats.DolosCode.vercel.app/api?username=DolosCode&show_icons=true&hide_border=true" />
-
 [website]: httpsL//www.google.com
