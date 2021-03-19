@@ -12,6 +12,7 @@
 - 😄 Pronouns: He/Him
  
 <br>
-[![DolosCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=DolosCode)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="DolosCode' Github Stats" src="(https://github-readme-stats.vercel.app/api?username=DolosCode" /> 
 
 [website]: httpsL//www.google.com
