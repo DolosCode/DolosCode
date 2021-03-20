@@ -4,8 +4,6 @@
 
 ## I mostly work in with the Google Cloud and Marketing Platforms.
 
-## 25 single and ready to commit.
-
 - 🔭 I’m currently working on building a github pages website [Website][website]
 - 🌱 I’m currently learning Data Engineering 
 - 👯 I’m looking to collaborate on any GCP related add-ons/tools
@@ -17,3 +15,5 @@
 <br>
 
 [website]: httpsL//www.google.com
+
+## 25 single and ready to commit.
