@@ -13,6 +13,6 @@
 - 😄 Pronouns: He/Him
  
 <br>
-[website]: httpsL//www.google.com
+[website]: https//www.google.com
 
 ###### 25 single and ready to commit.
