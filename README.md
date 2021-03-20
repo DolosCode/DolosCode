@@ -4,7 +4,7 @@
 </br>
 ## I mostly work in with the Google Cloud and Marketing Platforms.
 </br>
-# 25 single and ready to commit.
+## 25 single and ready to commit.
 
 - 🔭 I’m currently working on building a github pages website [Website][website]
 - 🌱 I’m currently learning Data Engineering 
