@@ -4,6 +4,8 @@
 
 #### I mostly work in with the Google Cloud and Marketing Platforms.
 
+###### 25 single and ready to commit.
+
 - 🔭 I’m currently working on building a github pages website [Website][website]
 - 🌱 I’m currently learning Data Engineering 
 - 👯 I’m looking to collaborate on any GCP related add-ons/tools
@@ -12,7 +14,4 @@
 - 📫 How to reach me: DolosCode@gmail.com
 - 😄 Pronouns: He/Him
  
-<br>
 [website]: https//www.google.com
-
-###### 25 single and ready to commit.
