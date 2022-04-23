@@ -1,10 +1,8 @@
-### Hi there, I'm Liam aka [DolosCode][website]
+### Hi there, I'm [DolosCode][website]
 
-## I'm have 3 years of data analysis experience and recently have been branching out into data science, data engineering and more project-based work. 
+## I'm have 4 years of data analysis experience and recently have been branching out into data science, data engineering and more project-based work. 
 
 #### I mostly work in with the Google Cloud and Marketing Platforms.
-
-###### 25 single and ready to commit.
 
 - 🔭 I’m currently working on building a github pages website [Website][website]
 - 🌱 I’m currently learning Data Engineering 
